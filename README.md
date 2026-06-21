@@ -71,6 +71,39 @@ Financial institutions lose millions of dollars annually due to fraudulent trans
 
 ---
 
+## Dashboard
+
+### Fraud Overview
+
+![Fraud Overview](dashboard/Fraud_Overview.png)
+
+### Customer Analysis
+
+![Customer Analysis](dashboard/Customer_Analysis.png)
+
+### Monthly seasonal trend
+
+![Monthly seasonal trend](dashboard/Monthly seasonal trend.png)
+
+### Time analysis
+
+![Time analysis](dashboard/Time analysis.png)
+
+### Transaction analysis
+
+![Transaction analysis](dashboard/Transaction analysis.png)
+
+### Time analysis
+
+![Geographic analysis](dashboard/Geographic analysis.png)
+
+### Time analysis
+
+![Recommendation1](dashboard/Recommendation1.png)
+
+---
+
+
 ## Business Recommendations
 
 1. Increase monitoring of online shopping transactions.
@@ -94,6 +127,24 @@ credit-card-fraud-analysis
 ```
 
 ---
+
+## SQL Scripts
+
+- Data Cleaning
+- Feature Engineering
+- KPI Calculations
+- Customer Analysis
+- Geographic Analysis
+- Transaction Analysis
+
+---
+
+## Full Report
+
+[View Full Report](report/Credit_Card_Fraud_Analysis.pdf)
+
+---
+
 
 ## Author
 
