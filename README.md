@@ -141,7 +141,7 @@ credit-card-fraud-analysis
 
 ## Full Report
 
-[View Full Report](report/Credit%20Card%20Fraud%20Analysis.pdf)
+[View Full Report](report/Credit_Card_Fraud_Analysis_Updated.pdf)
 
 ---
 
