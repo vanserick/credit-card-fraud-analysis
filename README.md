@@ -79,7 +79,7 @@ Financial institutions lose millions of dollars annually due to fraudulent trans
 
 ### Customer Analysis
 
-![Customer Analysis](dashboard/Customer_Analysis.png)
+![Customer Analysis](dashboard/Customer analysis.jpg)
 
 ### Monthly seasonal trend
 
