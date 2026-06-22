@@ -1,3 +1,7 @@
+![SQL](https://img.shields.io/badge/SQL-Used-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Used-yellow)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-green)
+
 # Credit Card Fraud Analysis
 
 ## Project Overview
