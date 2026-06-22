@@ -75,25 +75,25 @@ Financial institutions lose millions of dollars annually due to fraudulent trans
 
 ### Fraud Overview
 
-![Fraud Overview](dashboard/CustomerAnalysis.jpg)
+![FraudOverview](dashboard/FraudOverview.jpg)
 
 ### Customer Analysis
 
-![Customer Analysis](dashboard/CustomerAnalysis.jpg)
+![CustomerAnalysis](dashboard/CustomerAnalysis.jpg)
 
 ### Monthly seasonal trend
 
-![Monthly seasonal trend](dashboard/Monthly_seasonal_trend.png)
+![MonthlySeasonalTrend](dashboard/MonthlySeasonalTrend.png)
 
 ### Time analysis
 
-![Time analysis](dashboard/Time_analysis.png)
+![TimeAnalysis](dashboard/TimeAnalysis.png)
 
 ### Transaction analysis
 
-![Transaction analysis](dashboard/Transaction_analysis.png)
+![TransactionAnalysis](dashboard/TransactionAnalysis.png)
 
-### Time analysis
+### Geographic analysis
 
 ![GeographicAnalysis](dashboard/GeographicAnalysis.jpg)
 
